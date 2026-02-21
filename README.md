@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Muhammad Irteza, A Passionate DevOps Engineer & Developer👨‍💻 Working On-Site at Devsynth Innovations Since 2023 🚀</div>
 
-- ✅ I'm Currently working at Aun Digital as IT Consultant
+- ✅ I'm Currently working at Devsynth Innovations as IT Consultant
 
 - 🌏 Currently learning Amazon Web Services and Clustering Operations
 
